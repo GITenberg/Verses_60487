@@ -1,5 +1,5 @@
 _repo: Verses_60487
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Kilmer, Joyce
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '149'
     url: http://www.gutenberg.org/2009/agents/149
     wikipedia: http://en.wikipedia.org/wiki/Joyce_Kilmer
+covers:
+- cover_type: archival
+  image_path: 60487-h/images/cover.jpg
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60487#Verses
 gutenberg_issued: '2019-10-13'
 gutenberg_type: Text
 identifiers:
